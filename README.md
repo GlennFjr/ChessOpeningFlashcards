@@ -18,10 +18,3 @@ The following functionality is implemented:
   - [x] Some or all cards have images in place of or in addition to text
 - [x] Cards have different visual styles such as color based on their category
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented required features:
-
-<img src='Proj2_GFortunato.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with LICEcap
